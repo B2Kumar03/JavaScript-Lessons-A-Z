@@ -91,7 +91,7 @@ console.log(a);//undefined
 
 # Data types 
   - ###### Defination : -
-              In software programming data types refers to the type of a variables has an what type of mathematical, logical oprations can be applied without causing an error.
+    In software programming data types refers to the type of a variables has an what type of mathematical, logical oprations can be applied without causing an error.
 
 
 
