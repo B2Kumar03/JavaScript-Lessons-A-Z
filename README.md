@@ -93,6 +93,24 @@ console.log(a);//undefined
   - ###### Defination : -
     In software programming data types refers to the type of a variables has an what type of mathematical, logical oprations can be applied without causing an error.
 
+```
+"use strict"  //treat all JS code as newer varsion
+
+alert(3+3)   //we are using node js not browser //for more knowladge you can refer mdn document
+
+
+let name="Bittu" //string 
+
+let age=20 //Number
+
+let isMarried=false //boolean
+
+
+//null ==>standlon value
+//undefined
+//symbol
+```
+
 
 
 
